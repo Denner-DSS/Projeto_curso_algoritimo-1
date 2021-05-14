@@ -1,21 +1,3 @@
-/*
-sairLoop: caractere
-    v01, v02: real
-
-Inicio
-
-repita
-escreva("Digite o primero número: ")
-leia(v01)
-escreva("Digite o segundo número: ")
-leia(v02)
-
-escreval("Resultado: ", v01 + v02)
-escreval("Deseja sair? S/N")
-leia(sairLoop)
-
-ate sairLoop <> "N"
-*/
 
 function acaoBotao(){
     
